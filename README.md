@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- My name is Kory Zhang! I am a current third year undergraduate student studying Computer Science at the University of California, Irvine. I have various project experiences revolving around Python, C++, HTML/CSS, Javascript and more.
+
+- 📫 How to reach me: [email](k.oryy@yahoo.com)!
+
 <!--
 **koryz22/koryz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
