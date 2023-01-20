@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Kory Zhang! I am a current third year undergraduate student studying Computer Science at the University of California, Irvine. I have various project experiences revolving around Python, C++, HTML/CSS, Javascript and more.
+- My name is Kory Zhang! I am a current third year undergraduate student studying Computer Science at the University of California, Irvine. I have various project experiences revolving around Python, C++, Java, HTML/CSS, Javascript and more.
 
 - 📫 You can reach me through email: [Here](k.oryy@yahoo.com)!
 
